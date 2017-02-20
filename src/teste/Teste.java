@@ -4,7 +4,7 @@ public class Teste {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("mensagem secundária e principal");
+		System.out.println("mensagem somente secundária a");
 	}
 
 }
